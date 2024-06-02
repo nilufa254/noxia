@@ -1,0 +1,361 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+  .header-ctn span {
+    margin-right: 50px;
+  }
+
+  .main-header {
+    padding-right: 39px;
+  }
+
+  .right-cta {
+    margin-left: 0px;
+  }
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  .header-ctn span {
+    margin-right: 55px;
+  }
+
+  .main-header ul li {
+    margin-left: 30px;
+  }
+
+  .slider-height {
+    min-height: 110vh;
+  }
+
+  .single-features {
+    padding: 17px 10px;
+  }
+
+  .featue-text h2 {
+    font-size: 20px;
+  }
+
+  .skill-title h2 {
+    font-size: 25px;
+  }
+
+  .video-section.text-center {
+    padding: 0;
+  }
+
+  .video-text h2 {
+    font-size: 37px;
+  }
+
+  .pack-cart {
+    margin-bottom: 20px;
+  }
+
+  .pack-content span {
+    left: 113px;
+  }
+}
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .video-section.text-center {
+    padding: 0;
+  }
+
+  .header-main-area {
+    padding: 15px 0;
+  }
+
+  #sticky-header.sticky-menu.header-main-area {
+    padding: 10px 0;
+  }
+
+  .transparent-menu {
+    background: rgba(0, 0, 0, 0.7);
+  }
+
+  #sticky-header.sticky-menu {
+    background: rgba(0, 0, 0, 1);
+  }
+
+  .slider-height {
+    min-height: 100vh;
+  }
+
+  .slider-text h2 {
+    font-size: 50px;
+  }
+
+  .slider-text {
+    top: 200px;
+  }
+
+  .feature-title h2 {
+    font-size: 30px;
+  }
+
+  .features-area .active {
+    background: transparent;
+    border: 3px solid #ee3364;
+  }
+
+  .single-features {
+    margin-bottom: 0px;
+  }
+
+  .single-features:last-child {
+    margin-bottom: 50px;
+  }
+
+  .skill-title h2 {
+    font-size: 30px;
+  }
+
+  .skill-sign {
+    margin-bottom: 40px;
+  }
+
+  .video-text h2 {
+    font-size: 35px;
+  }
+
+  .solution-title h2 {
+    font-size: 35px;
+  }
+
+  .team-title h2 {
+    font-size: 36px;
+  }
+
+  .pack-title h2 {
+    font-size: 45px;
+  }
+
+  .team2-img {
+    width: 50%;
+  }
+
+  .pack-cart {
+    margin-bottom: 35px;
+  }
+
+  .form-text h2 {
+    font-size: 35px;
+  }
+
+  .nice-select {
+    margin-bottom: 0;
+  }
+
+  .brand-area.mb-100 {
+    margin-bottom: 30px;
+  }
+}
+
+/* Extra small Device. */
+@media (max-width: 576px) {
+  .video-section.text-center {
+    padding: 0;
+  }
+
+  .header-main-area {
+    padding: 15px 0;
+  }
+
+  #sticky-header.sticky-menu.header-main-area {
+    padding: 10px 0;
+  }
+
+  .transparent-menu {
+    background: rgba(0, 0, 0, 0.7);
+  }
+
+  #sticky-header.sticky-menu {
+    background: rgba(0, 0, 0, 1);
+  }
+
+  .nice-select {
+    margin-bottom: 0;
+  }
+
+  .brand-area.mb-100 {
+    margin-bottom: 10px;
+  }
+
+  .slider-text h2 {
+    font-size: 45px;
+  }
+
+  .slider-text {
+    padding-left: 25px;
+  }
+
+  .feature-title h2 {
+    font-size: 26px;
+  }
+
+  .single-features {
+    margin-bottom: 0;
+  }
+
+  .features-area a {
+    margin-top: 30px;
+    display: inline-block;
+  }
+
+  .skill-title h2 {
+    padding-bottom: 30px;
+    font-size: 25px;
+  }
+
+  .skill-sign {
+    margin-bottom: 50px;
+  }
+
+  .video-text h2 {
+    font-size: 30px;
+  }
+
+  .team-title h2 {
+    font-size: 35px;
+  }
+
+  .teamtext h2 {
+    font-size: 35px;
+  }
+
+  .pack-title h2 {
+    font-size: 42px;
+  }
+
+  .pack-content span {
+    left: 165px;
+    top: 173px;
+  }
+
+  .pack-cart {
+    margin-bottom: 30px;
+  }
+
+  .team2-img {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 0 8%;
+  }
+
+  .form-text h2 {
+    font-size: 30px;
+  }
+
+  .team-img img {
+    height: 100%;
+  }
+}
+
+/* mobile Device. */
+@media (max-width: 420px) {
+  .slider-text h2 {
+    font-size: 40px;
+  }
+
+  .slider-text {
+    top: 200px;
+  }
+
+  .solution-title h2 {
+    font-size: 33px;
+  }
+
+  .team-img img {
+    height: 100%;
+  }
+
+  .pack-content span {
+    left: 132px;
+  }
+
+  .block-img i {
+    padding: 0 5px;
+  }
+
+  .slider-text p {
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 350px) {
+  .slider-text h2 {
+    font-size: 35px;
+  }
+
+  .feature-title h2 {
+    font-size: 25px;
+  }
+
+  .skill-title h2 {
+    font-size: 23px;
+  }
+
+  .video-text h2 {
+    font-size: 25px;
+  }
+
+  .counter-text h2 {
+    font-size: 45px;
+  }
+
+  .solution-title h2 {
+    font-size: 30px;
+  }
+
+  .team-btn {
+    margin-top: 46px;
+  }
+
+  .pack-title h2 {
+    font-size: 35px;
+  }
+
+  .pack-content span {
+    left: 109px;
+  }
+
+  .slider-text p {
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 330px) {
+  .slider-text h2 {
+    font-size: 30px;
+  }
+
+  .slider-text p {
+    padding-right: 0;
+  }
+
+  .slider-height {
+    min-height: 80vh;
+  }
+
+  .slider-text {
+    top: 165px;
+  }
+
+  .features-area {
+    padding: 80px 0;
+  }
+
+  .teamtext p {
+    padding: 0 5px;
+  }
+
+  .pack-content span {
+    left: 100px;
+  }
+}
+
+/* By Kazi Talat Hridoy */
